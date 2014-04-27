@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------
+README
+------------------------------------------------------------------------------
+
+Blink the LED for a bit before returning to the bootloader.
+
+Board connections:
+------------------
+
+  PA4		LED connected via a current limiting resistor to Vcc (or GND)
