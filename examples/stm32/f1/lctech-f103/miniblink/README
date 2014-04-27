@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------
+README
+------------------------------------------------------------------------------
+
+This is the smallest-possible example program using libopencm3.
+
+It's intended for the LCTech STM32F103C8T6 core board (see
+http://www.lctech-inc.com/Hardware/Detail.aspx?id=0172e854-77b0-43d5-b300-68e570c914fd
+for details). It should blink an LED attached to PA4.
+
+Board connections:
+------------------
+
+  PA4		LED connected via a current limiting resistor to Vcc (or GND)
