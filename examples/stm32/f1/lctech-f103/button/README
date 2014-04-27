@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------
+README
+------------------------------------------------------------------------------
+
+This example blinks the LED attached to PA4.
+
+When you press the 'USER' button, the blinking is faster.
+
+Board connections:
+------------------
+
+  PA4   (optional LED)	LED connected via a current limiting resistor to GND
+  PA8	(button)	Switch, connected to GND, to enable loader
